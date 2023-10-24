@@ -34,5 +34,5 @@
 To run this project locally, simply clone the repository and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/your-username/travel-booking-website.git
+git clone https://github.com/GauravSingh72/Travelocity-Clone.git
 cd travel-booking-website
