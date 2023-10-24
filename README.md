@@ -13,13 +13,13 @@
 <h2>Login</h2>
 <img src="https://i.ibb.co/bN7TB0J/Screenshot-2023-10-24-at-11-51-47-AM.png" alt="Screenshot-2023-10-24-at-11-51-47-AM" border="0">
 <h2>Home</h2>
-<img src="https://i.ibb.co/WfKkW2q/Screenshot-2023-10-24-at-11-52-26-AM.png" alt="Screenshot-2023-10-24-at-11-52-26-AM" border="0">
+<img src="https://i.ibb.co/XVzjZ5w/Screenshot-2023-10-24-at-12-19-23-PM.png" alt="Screenshot-2023-10-24-at-12-19-23-PM" border="0">
+<h2>Package</h2>
+<img src="https://i.ibb.co/Cb5wfBS/Screenshot-2023-10-24-at-12-19-49-PM.png" alt="Screenshot-2023-10-24-at-12-19-49-PM" border="0">
 <h2>Support</h2>
-<img src="https://i.ibb.co/wyggKT9/Screenshot-2023-10-24-at-11-56-18-AM.png" alt="Screenshot-2023-10-24-at-11-56-18-AM" border="0">
-<h2>Deals</h2>
-<img src="https://i.ibb.co/HhBRMgJ/Screenshot-2023-10-24-at-11-57-12-AM.png" alt="Screenshot-2023-10-24-at-11-57-12-AM" border="0">
-<h2>Flights</h2>
-<img src="https://i.ibb.co/hfCKBgH/Screenshot-2023-10-24-at-12-03-13-PM.png" alt="Screenshot-2023-10-24-at-12-03-13-PM" border="0">
+<img src="https://i.ibb.co/gJ3DVfT/Screenshot-2023-10-24-at-12-21-47-PM.png" alt="Screenshot-2023-10-24-at-12-21-47-PM" border="0">
+<h2>List</h2>
+<img src="https://i.ibb.co/1M8DKDy/Screenshot-2023-10-24-at-12-22-20-PM.png" alt="Screenshot-2023-10-24-at-12-22-20-PM" border="0">
 
  <h2>Technologies Used</h2>
 
